@@ -1,0 +1,2 @@
+# AndroidResideMenu
+ReisdeMenu 创意灵感来自于Dribbble1还有2，而这个是Android版的ResideMenu，在视觉效果上部分参考了iOS版的
